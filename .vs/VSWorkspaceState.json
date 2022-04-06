@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HospitalHoopla",
+    "\\HospitalHooplaServer",
+    "\\HospitalHooplaServer\\Controllers",
+    "\\HospitalHooplaServer\\DAO",
+    "\\HospitalHooplaServer\\Models",
+    "\\HospitalHoopla\\Models"
+  ],
+  "SelectedNode": "\\HospitalHoopla\\HospitalHooplaApp.cs",
+  "PreviewInSolutionExplorer": false
+}
